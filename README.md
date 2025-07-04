@@ -11,4 +11,8 @@ A modern, responsive landing page built using **HTML**, **CSS**, and **Google Fo
 - 🌐 Google Fonts integrated
 
 ## 📁 File Structure
+/creatix-landing-page
+├── index.html
+├── style.css
+└── README.md
 
